@@ -1,2 +1,2 @@
 # scala-tasks
-Solving scala 99 problems
+Solving [scala 99 problems](http://aperiodic.net/phil/scala/s-99/)
